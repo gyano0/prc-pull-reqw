@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhaijaan+2&family=Poppins:wght@100;200;300&family=Rubik+Doodle+Shadow&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins',sans-serif;
+
+}
+html,body{
+    display: grid;
+    height: 100%;
+    place-items: center;
+    background-color: rgb(18, 228, 158);
+
+
+}
+.wraper{
+    width: 380px;
+    background: #fff;
+    border-radius: 5px;
+}
+.wraper .title{
+    line-height: 80px;
+    background-color:rgba(9, 130, 89, 0.815);
+    font-size: 25px;
+    
+}
